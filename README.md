@@ -1,6 +1,6 @@
 
 <h1 align="center">Ai Chatbot</h1>
-    <h3 align="center">Description
+    <h3 align="left">Description
 </h3>
  <p>
 I have created a chatbot using HTML, CSS, JavaScript and API.The main purpose of this chatbot is to help the user in their conversations and solve their problems. This chatbot is capable of fetching real-time data and understanding user queries.
