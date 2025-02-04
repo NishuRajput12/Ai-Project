@@ -12,7 +12,7 @@ I have created a chatbot using HTML, CSS, JavaScript and API.The main purpose of
       <li><b>CSS:</b> Styling for the user interface.</li>
       <li><b>JavaScript:</b> Logic and API integration for real-time responses.
 </li>
-    <li><b>API:</b>b> Data fetching (like using Google API for cryptocurrency-related information)</li>
+    <li><b>API:</b> Data fetching (like using Google API for cryptocurrency-related information)</li>
 </ul>
 <h3 align="left"  > Features</h3>
 <ul>
